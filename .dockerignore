@@ -1,0 +1,17 @@
+.git
+Dockerfile
+.gitignore
+.dockerignore
+
+__pycache__
+*.py[cod]
+*$py.class
+
+build/
+
+pip-log.txt
+.python-version
+
+.env
+.venv
+venv/
